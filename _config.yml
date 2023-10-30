@@ -1,14 +1,19 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 一城一程
+description: city to journey
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  "Template Repository":
-    https://github.com/just-the-docs/just-the-docs-templatesxdvds
   "Github Repository":
-    https://github.com/ucsd-cssa-official/city-to-journey
+    - https://github.com/ucsd-cssa-official/city-to-journey
+  "Source Documentation":
+    - https://docs.google.com/document/d/1g66fjGW3fgUm3es6yoUeGhwNmI-HQG1M/edit?usp=sharing&ouid=106682238319556662949&rtpof=true&sd=true
+  "UCSD CSSA website":
+    - https://ucsdcssa.com
+
+color_scheme: foo # this includes the color adjustment for the page
 
 
-color_scheme: dark
+# Comments
+# if you change anything on this yml and want to view on the local site, you have to reconstruct `bundle exec jekyll serve` again
