@@ -1,9 +1,2 @@
----
-title: Majors
-layout: default
-nav_order: 3
----
-
-
-This is majors. 
-This has multiple pages on various majors. 
+Chapter 9. 专业篇
+UCSD有很多热门专业，除了有名的工程类学科和生物，还有认知科学，心理学，数学，数据科学，社会学，经济学等等。本篇内容包含对不同专业的大概介绍和对本专业在读学生的采访内容。
