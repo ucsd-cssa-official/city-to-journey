@@ -1,3 +1,8 @@
+https://ucsd-cssa-official.github.io/city-to-journey/
+
+this is link to website
+
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
