@@ -1,2 +1,41 @@
 $link-color: $red-300;
+strong {
+  color: $red-300;
+}
 
+h2 {
+  //color: red;
+  background-color: #fbdbd3;
+  padding: 4px;
+}
+
+.note {
+  border-left: 3px solid red;
+  background-color: #FFF3F3;
+  padding: 0.5rem;
+  margin: 1rem 0;
+}
+
+.note strong {
+  display: block;
+  color: indianred;
+}
+
+
+.contribution {
+  border-left: 3px solid #8B0000;
+  background-color: #FFF5EE;
+  padding: 0.5rem;
+  margin: 1rem 0;
+}
+
+.contribution strong {
+  display: block;
+  color: #8B0000;
+}
+
+//hr {
+//  border: 0;
+//  border-top: 2px solid #a94442; /* A nice shade of red */
+//  margin: 20px 0;
+//} ? cant display
