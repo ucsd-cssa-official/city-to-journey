@@ -26,4 +26,8 @@ Muir College 的写作课是小班 seminar式授课。虽然只有两节，但�
 整个学期一共 3 篇 paper，但是每一篇 paper 都需要交 3 个 drafts 以上。第一篇 paper 是关于指定文章的分析，即写出指定文章的论点、论据等等。第二篇 paper 是两篇指定文章的对比分析，需要写出两篇在论述上的对比。第三篇 paper 是关于指定小说的分析，该小说运用了什么手法和方式，论述和展现了什么主旨。当然小说是在一开学就会给，可以提前开始读。<br>
 MCWP 40 在webreg上写着都是同一位老师的名字，但实际上每几个section会由一位TA上课，也由他负责改作文。不过具体的TA要到了上课才会知道。
 
+## MCWP 50：
+主要由 RESEARCH PAPER 组成。通过大量的调查、阅读，然后写出自己的文章。MCWP 50 是按照主题划分，选择什么主题就要进行这一主题的调查与分析。每个学期的具体主题不太一样，但是主要分为humanities，sciences，以及social and environmental justice三个话题。
+<img width="619" alt="image" src="https://github.com/ucsd-cssa-official/city-to-journey/assets/108479759/e2a0cc08-cfdb-4509-9be0-538aa656b230"><br>
+最终的文章只要求 12 页 （3500-3800字+citations）。前期准备很多：有 3 次 proposal，写出如何构思整个文章。proposal 有具体的要求，要写 5 页（1200-1500字+citations）、改 3 次。Annotated Bibliography是要对 7 个资料进行分析，也会有具体的要求。做完前期准备工作才开始写文章。12 页的正式 paper 需要改 3 个draft。
 
