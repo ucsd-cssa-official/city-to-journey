@@ -116,4 +116,5 @@ __咕咕：__ Cogs 有很多不同的分支：Neuroscience，Clinical Aspects of
 __JOY：__ cogs sci有很多方向可选。如果是neuroscience或者clinical aspects这块可能会更看重lab和医院的实习，学校里不管是real portal还是handshake上都有非常多的可以申请的program。design and interaction和machine learning这块可能就相对更看重实习和project这块，校内外的资源也特别多。
 ## Q4. 给在读或者即将到来的学弟学妹们一些建议吧！
 __咕咕：__ 同学们可以在上cogs1的时候体验下这个专业的不同分支，cognitive science 是一个领域较广的综合性学科。UCSD的cognitive science 实力很强，所以一些课可能节奏较快，但是会学到很多东西。 课余也可以去寻找一些research 和实习的机会，在校内校外都有很多。
+
 __JOY：__ UCSD作为最早创立cogs sci这个专业的大学，校内的资源是非常多的。大家要主动去寻找各种机会，可以多参加参加教授的的office hour，跟教授熟悉后也许可以去教授的lab做volunteer，也可以去学校的各种平台上看看有什么intern在招人。总之一定要充分利用校内资源。
