@@ -98,3 +98,9 @@ __小鱼（CS）：__ 实习机会挺多的，cse的newsletter时不时会更新
 ## Q5. 给在读或者即将到来的学弟学妹们一些建议吧！
 __大齐（CS）：__ 一定不要选早8！一定不要选早8！一定不要选早8！你不会想早上七点爬起来的。
 __小鱼（CS）：__ Start Early Start Often! 你不知道自己会卡在什么奇奇怪怪的bug里。
+# 9.7 Cognitive Science认知科学
+## A)基本信息
+认知科学是一个研究人的大脑与认知的跨领域学科，包括语言学、人类学、心理学、神经科学、哲学和人工智能。所以UCSD的认知科学专业下面会有一些不同的专业领域来细分，广义上的认知科学，神经科学，临床认知科学，文化与语言，机械与神经算法，行为学，以及人机交互，涵盖范围相当广。同时因为UCSD是首个开设认知科学的大学，所以在这个相对新的领域，UCSD COGS在美国各大高校中排名第二。
+## B)在读学生介绍
+咕咕：大二/Warren College/Cognitive Science Minor + Data Science Major
+Joy: 大一/ERC/Cognitive Science Major + Political Science Minor
