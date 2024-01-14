@@ -1,7 +1,8 @@
 ---
-title: rent
+title: off campus
 layout: default
 nav_order: 7
+parent: rent
 ---
 
 

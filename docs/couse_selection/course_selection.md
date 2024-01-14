@@ -11,10 +11,10 @@ nav_order: 4
 UCSD的选课系统是WebReg。以下是如何从众多操作系统登录的指南。
 
 1. 首先进入[Tritonlink]
-2. 点击上方MYTRITONLINK <br/> ![tritonlink_home.png](images/course_selections/tritonlink_home.png)
-3. 输入username/PID和密码登录 <br/> ![img.png](images/course_selections/img.png)
-4. 点击上方菜单栏Class & Enrollment的子菜单最后一个就是WebReg <br/> ![img_1.png](images/course_selections/img_1.png)
-5. 进入WebReg后选择相应的Term，再点击Go，就会出现如下界面 <br/> ![img_2.png](images/course_selections/img_2.png)
+2. 点击上方MYTRITONLINK <br/> ![tritonlink_home.png](../../images/course_selections/tritonlink_home.png)
+3. 输入username/PID和密码登录 <br/> ![img.png](../../images/course_selections/img.png)
+4. 点击上方菜单栏Class & Enrollment的子菜单最后一个就是WebReg <br/> ![img_1.png](../../images/course_selections/img_1.png)
+5. 进入WebReg后选择相应的Term，再点击Go，就会出现如下界面 <br/> ![img_2.png](../../images/course_selections/img_2.png)
 
 ## 10.2 选课时间 appointment time
 
@@ -26,36 +26,37 @@ UCSD的选课系统是WebReg。以下是如何从众多操作系统登录的指�
 
 ## 10.3 找课 search for classes
 
-![img_3.png](images/course_selections/img_3.png)
+![img_3.png](../../images/course_selections/img_3.png)
 
 1. 如果你知道课程所在的专业（比如MATH）或者是课程编号（比如MATH20A）的话，可以直接使用**BASIC SEARCH**
    ，即上图中的搜索栏。如果你想知道哪个教授教哪节课或者其它详细信息，可以使用**ADVANCED SEARCH**。
 
-![img_4.png](images/course_selections/img_4.png)
+![img_4.png](../../images/course_selections/img_4.png)
 
 2. 搜索后会出现课程列表，点击你想了解的课程，可以出现更多信息。右上角的蓝色字体可以作为选课的参考工具：
 
-![img_5.png](images/course_selections/img_5.png)
+![img_5.png](../../images/course_selections/img_5.png)
 
 - Catalog是这门课程的课程简介；
 - Prerequisite是可以enroll这门课的条件，如果你没有达到prerequisite的话，是不能上这节课的；
 - Resources 里面有更多详细信息的网站；
 - Evaluation 也就是CAPE result，里面有以往学生对教授和这节课的评价及平均分。
 
-![img_6.png](images/course_selections/img_6.png)
+![img_6.png](../../images/course_selections/img_6.png)
+
 
 ## 10.4 排课 Plan Classes
 
 1. 查找课程的具体信息后，可以看到这门课的上课时间，地点，总共seats，剩余位置，waitlist人数，教授等信息。
 
-   ![img_7.png](images/course_selections/img_7.png)
+   ![img_7.png](../../images/course_selections/img_7.png)
 
 	- Building是这门课所在的教学楼，点击楼的名字（比如图中的APM）可以查看教学楼所在的位置。建议大家参考一下
 	  楼与楼之间的距离，毕竟UCSD真的很大，如果楼和楼之间近的话就还好，但是有的时候真的会出现课间10分钟从学校这边冲到另一边的可能性。
 	- Total Seats是总共多少人可以enroll这节课，Avail Seats是还剩多少个位置，Waitlist Count是现在正在Waitlist中的人数。
 
 2. 如果你想plan这节课就可以点击后面的**plan**。已经plan好的课（由白色表示）可以在下面的Calendar查看日常课表，Final可以查看Final时间安排。
-   ![img_8.png](images/course_selections/img_8.png)
+   ![img_8.png](../../images/course_selections/img_8.png)
 3. 右上角的My Schedule可以添加events，比如去gym，参加社团活动等等…
 
 {: .note }
@@ -72,7 +73,7 @@ UCSD的选课系统是WebReg。以下是如何从众多操作系统登录的指�
 
 1. Appointment time一到，大家就可以进行选课了。对于还有位置的课直接点击后面的Enroll就可以了。（已经enroll的课在下面的list/calendar以深蓝色表示。）
 
-![img_9.png](images/course_selections/img_9.png)
+![img_9.png](../../images/course_selections/img_9.png)
 
 2.如果没位置的话，就要考虑一下是否要waitlist这门课。如果要waitlist，就点waitlist。可以上[facilities.UCSD.edu]
 查一下这个教室总共能容纳下多少人，如果整个lecture（所有section加和）Total
@@ -109,11 +110,11 @@ seats一般是0，不用担心，之后会放出来），所以如果有很想�
 
 1. 点击https://act.UCSD.edu/studentDars/select进入degree audit.
 2. 点击框中的按钮开始run audit
-   ![img_10.png](images/course_selections/img_10.png)
+   ![img_10.png](../../images/course_selections/img_10.png)
 
 点击框中按钮看自己的audit
 
-![img_11.png](images/course_selections/img_11.png)
+![img_11.png](../../images/course_selections/img_11.png)
 
 ## 10.8 前期AP/IB/A-level转学分
 
@@ -159,7 +160,7 @@ pass，即不影响GPA），同时也可以抵换UCSD的课程。但是不同学
 
 - **满足ELWR具体要求**
 
-![img_13.png](images/course_selections/img_13.png)
+![img_13.png](../../images/course_selections/img_13.png)
 
 网站上有更多信息，请前往查看：[ELWR]
 
@@ -167,7 +168,7 @@ pass，即不影响GPA），同时也可以抵换UCSD的课程。但是不同学
 成绩单（一般是通过考试局，例如College Board等）寄给学校的Admission
 Office。具体截止日期为：大学官方成绩单7.1之前，AP/IB/SAT/ACT成绩7.15之前。所以有暑假去补考以满足ELWR想法的同学，需要跟成绩单截止日期对一对了。如果过了截止日期没有提交相应成绩，则视为没有满足ELWR。
 
-![img_12.png](images/course_selections/img_12.png)
+![img_12.png](../../images/course_selections/img_12.png)
 
 - **那么没有满足ELWR会怎么办呢**
 
@@ -225,7 +226,7 @@ UCSD有三种SUMMER SESSION，分别为：
 
 本科生：$279 per unit，研究生：$349 per unit 。除了学费之外，还有额外的Campus Based Fees，具体请见下图。（2022版）
 
-![img_14.png](images/course_selections/img_14.png)
+![img_14.png](../../images/course_selections/img_14.png)
 
 因为是按学分收费，所以对于国际学生来说summer session是一种很划算的方式，通常大家每session会选择8个学分的课（即2门4个学分的课），当然有余力者最多可以选择12个学分（即3门课）。
 
