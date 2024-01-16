@@ -1,4 +1,5 @@
-https://ucsd-cssa-official.github.io/city-to-journey/
+https://ucsd-cssa-official.github.io/city-to-journey/docs
+
 
 this is link to website
 
