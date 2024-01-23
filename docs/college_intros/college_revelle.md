@@ -13,7 +13,7 @@ Revelle College 是 UCSD 最早成立的学院。它于 1964 年建成，以海�
 ## 地理位置及出行
 Revelle College 位于 UCSD 的最南端，虽说位置较为偏僻，但是交通十分便利。在学院的西边和东边都设有圣地亚哥 MTS 系统的公交车站，步行五分钟便可到达。如果想乘坐校内的 shuttle，在学院东侧，西侧以及南侧的教学楼附近也可以找到 shuttle 的车站，线路有校内的Inside Loop 和Outside Loop，会经过 UCSD 所有学院，以及贯通海边和UCSD School of Medicine 的SIO。
 
-<img width="166" alt="image" src="https://github.com/ucsd-cssa-official/city-to-journey/assets/108479759/78fb2d20-635c-4d02-ba2f-6314a40f6cef">
+![Alt text](../../images/college_intros/muir_selections/revelle-image3.png)
 
 ## 1.2 General Education （通识教育）
 Revelle College 的 GE 分为以下六个部分：
