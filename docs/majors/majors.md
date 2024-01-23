@@ -240,6 +240,7 @@ __L学姐:__ 我觉得有一点是自己要多在课外积累一些知识，很�
 国际贸易学主要研究国际贸易理论与政策、企业国际化经营、国际商务与全球营销、国际贸易风险分析与规避等等。本专业主要培养的学生应较系统地掌握国际经济、国际贸易的基本理论，掌握国际贸易的基本知识与基本技能，并了解当代国际经济贸易的发展现状。
 ## B)在读学生介绍
 M学姐：大三/Sixth College/International Business
+
 T学长：大三/Marshall College/International Business
 ## C)在读学生Q&A
 ## Q1. 你的上课日常是怎样的呢？
@@ -271,6 +272,7 @@ __T学长:__  看自己的Track。因为IB课程比较有限。很建议先选�
 电气工程是一门注重于研究电力，电子，电磁等领域，结合了硬件与软件的综合工程学科。电气工程的学生可能参与到各类电子设备的设计，研发，测试以及未来的监测的过程中。UCSD 的 ECE department目前包含以下几个专业：EE（电气工程），CE（计算机工程），EP（工程物理），EE & Society（电气工程与社会影响），其中EE又分为8大depths，分别是Communication Systems, Computer System Design, Electronic Devices and Materials, Machine Learning and Controls, Photonics, Signal and Image Processing, and Power Engineering。非 ECE Department的学生需要修完必要的数学，物理，化学以及部分ECE课程才能申请转入其下的专业。
 ## B)在读学生介绍
 Audrey：大三/Muir College/Electrical Engineering
+
 Leo：大二/Marshall College/Computer Engineering
 ## C)在读学生Q&A
 ## Q1. 电气工程的专业课程是以什么样的教学形式为主呢？这个专业在UCSD有什么特点吗？
