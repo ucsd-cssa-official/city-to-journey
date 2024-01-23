@@ -224,17 +224,17 @@ __周一:__ 我个人给的一个建议是，学data science最重要的并不�
 L学姐：大二/Marshall College/Economics
 ## C)在读学生Q&A
 ## Q1. 你的上课日常是怎样的呢？
-__L学姐: -- 我觉得Econ的话reading相对别的文科来说可能没有这么多，但是阅读还是很重要的，特别是到了upper课的时候，建议还是要读一下书加深理解。如果高中是IB或者AP的话lower经济课很多知识点都学过，但是千万别因此觉得自己稳了呀！我觉得经济要拿高分多读书和做practice还是比较重要的吧。一些经济学的概念要不断练习才能记忆深刻。
+__L学姐:__ 我觉得Econ的话reading相对别的文科来说可能没有这么多，但是阅读还是很重要的，特别是到了upper课的时候，建议还是要读一下书加深理解。如果高中是IB或者AP的话lower经济课很多知识点都学过，但是千万别因此觉得自己稳了呀！我觉得经济要拿高分多读书和做practice还是比较重要的吧。一些经济学的概念要不断练习才能记忆深刻。
 ## Q2. 你们的专业课程的设置大概是怎样的呢？
-__L学姐: -- Econ department之下分Economics，Management Science和Joint Maths&Economics，Business Economics四个专业，前两个有几节专业课要求不同，Joint major的话其实就是数学课和经济课各上一半这样的，Business Economics还会上管理学院的课。Lower的课相对比较简单一点吧。Economics专业要上宏经和微经，Management Science专业还要多上一节Financial Accounting，总体来说lower的课一般都是很多人的大课，好好学的话拿A是没有问题的。然后upper的课会相对难一些，偏theory的会比较多。之前听别人说Econ是水专业，是真的不！存！在！的！
+__L学姐:__ Econ department之下分Economics，Management Science和Joint Maths&Economics，Business Economics四个专业，前两个有几节专业课要求不同，Joint major的话其实就是数学课和经济课各上一半这样的，Business Economics还会上管理学院的课。Lower的课相对比较简单一点吧。Economics专业要上宏经和微经，Management Science专业还要多上一节Financial Accounting，总体来说lower的课一般都是很多人的大课，好好学的话拿A是没有问题的。然后upper的课会相对难一些，偏theory的会比较多。之前听别人说Econ是水专业，是真的不！存！在！的！
 ## Q3. 本专业有没有特别值得推荐的教授/课程？
-__L学姐: -- 有。Econ1和Econ3算是比较简单的专业课吧。而且一般在这个课上你有有一种网友见面会的感觉。另外Econ120系列的计量经济学是我们学校经济学很强的一个分支。教授的话推荐Ramey，她在课堂外很approachable，对中国也很感兴趣；然后Kate Antonovics教授也很厉害，上课调理很清晰，还有Melissa Famulari的Econ100系列，她把每一个知识点都讲的很清楚，人也很nice。
+__L学姐:__ 有。Econ1和Econ3算是比较简单的专业课吧。而且一般在这个课上你有有一种网友见面会的感觉。另外Econ120系列的计量经济学是我们学校经济学很强的一个分支。教授的话推荐Ramey，她在课堂外很approachable，对中国也很感兴趣；然后Kate Antonovics教授也很厉害，上课调理很清晰，还有Melissa Famulari的Econ100系列，她把每一个知识点都讲的很清楚，人也很nice。
 ## Q4. 学习经济学，学校里有没有什么觉得很有帮助的club/activity/association？
-__L学姐: -- 学校里还是有很丰富的资源给商科的同学们的。我的建议是一定要走出舒适区，去了解，参加学校不同的business社团。有些社团比如UBN可能招新的竞争很激烈，但是社团本身帮助真的很大，学长学姐会帮助你修改简历，模拟interview以及提供一些实习的内推机会。另外对consulting感兴趣的话有Triton Consulting Group，对投资感兴趣的话有Undergraduate Investment Society等等，都能找到很多志同道合的同学，也能收获很多宝贵的友谊。Research方向的话多和教授交流吧，在学生社团里也会有学长学姐告诉你有哪些research的机会。
+__L学姐:__ 学校里还是有很丰富的资源给商科的同学们的。我的建议是一定要走出舒适区，去了解，参加学校不同的business社团。有些社团比如UBN可能招新的竞争很激烈，但是社团本身帮助真的很大，学长学姐会帮助你修改简历，模拟interview以及提供一些实习的内推机会。另外对consulting感兴趣的话有Triton Consulting Group，对投资感兴趣的话有Undergraduate Investment Society等等，都能找到很多志同道合的同学，也能收获很多宝贵的友谊。Research方向的话多和教授交流吧，在学生社团里也会有学长学姐告诉你有哪些research的机会。
 ## Q5. 学习政治学专业，未来有什么实习与就业的方向？
-__L学姐: -- 我身边学Econ，Management Science还有Math-Econ的朋友们其实未来走的方向都不太一样吧，有想去投行的，想做咨询的，或者想自己创业的。实习方面我觉得一方面是家长的资源，这个在低年级的时候还是比较重要的，一方面是自己一定要积极地去networking，多找找学长学姐去改简历。我在的社团里的学长学姐还是很乐意提供一些实习内推和改简历这方面的帮助的。另外其实学校里也有很多像Accounting，Finance这样的minor可以去选择的，大家可以根据自己的兴趣做规划。
+__L学姐:__ 我身边学Econ，Management Science还有Math-Econ的朋友们其实未来走的方向都不太一样吧，有想去投行的，想做咨询的，或者想自己创业的。实习方面我觉得一方面是家长的资源，这个在低年级的时候还是比较重要的，一方面是自己一定要积极地去networking，多找找学长学姐去改简历。我在的社团里的学长学姐还是很乐意提供一些实习内推和改简历这方面的帮助的。另外其实学校里也有很多像Accounting，Finance这样的minor可以去选择的，大家可以根据自己的兴趣做规划。
 ## Q6. 给在读或者即将到来的学弟学妹们一些建议吧！
-__L学姐: -- 我觉得有一点是自己要多在课外积累一些知识，很多东西都不仅仅是在课堂上学来的。另外走商科这条路的话，一定要积极地多交朋友多学习吧。其实学校里提供的资源很多，就要看你愿不愿意走出舒适区去多加尝试。
+__L学姐:__ 我觉得有一点是自己要多在课外积累一些知识，很多东西都不仅仅是在课堂上学来的。另外走商科这条路的话，一定要积极地多交朋友多学习吧。其实学校里提供的资源很多，就要看你愿不愿意走出舒适区去多加尝试。
 # 9.12 International Business国际贸易
 ## A)基本信息
 国际贸易学主要研究国际贸易理论与政策、企业国际化经营、国际商务与全球营销、国际贸易风险分析与规避等等。本专业主要培养的学生应较系统地掌握国际经济、国际贸易的基本理论，掌握国际贸易的基本知识与基本技能，并了解当代国际经济贸易的发展现状。
@@ -243,13 +243,13 @@ M学姐：大三/Sixth College/International Business
 T学长：大三/Marshall College/International Business
 ## C)在读学生Q&A
 ## Q1. 你的上课日常是怎样的呢？
-__M学姐: -- International Business（一下简称IB）这个专业需要很大的阅读量，多看看新闻报纸会增加自己的背景知识，reading的压力也就会小很多。然后IB的专业课上会经常要做presentation - 有的是总结读过的东西，有的是发表一些对于实事的看法，这对英语水平和present的技能都有一定的要求。同时有些课会根据participation算分，所以课堂上一定要积极主动地去发表自己的看法。
+__M学姐:__ International Business（一下简称IB）这个专业需要很大的阅读量，多看看新闻报纸会增加自己的背景知识，reading的压力也就会小很多。然后IB的专业课上会经常要做presentation - 有的是总结读过的东西，有的是发表一些对于实事的看法，这对英语水平和present的技能都有一定的要求。同时有些课会根据participation算分，所以课堂上一定要积极主动地去发表自己的看法。
 __T学长:__ 这个专业主要专业课是完成INTL的三节课，然后Rady 的 8 节专业课程。总体来说压力并不是很大，课程比较偏文科设定。商科有很多Group Project。IB的好处在于不需要上Econ的课。不喜欢理科的人会很喜欢IB。
 ## Q2. 你们的专业课程设置大概是怎样的呢？
-__M学姐: -- IB的lower课主要是数学和Financial Accounting以及Managerial Accounting，upper的课分为international studies，不同方向的MGT课（比如marketing／accounting／entrepreneurship）以及一些regional study。总体来说学的比较偏理论，学的知识也比较广一点。
+__M学姐:__ IB的lower课主要是数学和Financial Accounting以及Managerial Accounting，upper的课分为international studies，不同方向的MGT课（比如marketing／accounting／entrepreneurship）以及一些regional study。总体来说学的比较偏理论，学的知识也比较广一点。
 __T学长:__  我认为如果你要走Business Track的话IB的课程可能不太够因为一共专业课只要求8节所以很建议Minor几个Rady的Minor这样多修一些商业课程会更Prepare Future Business Track。
 ## Q3. 本专业有没有特别值得推荐的教授/课程？
-__M学姐: -- 有。比如MGT103，MGT172和MGT187这些课如果好好学的话，拿A还是没问题的。教授的话推荐Kathleen和Dunn；另外MGT166这门课的话要慎重选老师，有些老师会在课上进行debate，再根据debate的内容评分，英语是第二语言的话很不占优势。
+__M学姐:__ 有。比如MGT103，MGT172和MGT187这些课如果好好学的话，拿A还是没问题的。教授的话推荐Kathleen和Dunn；另外MGT166这门课的话要慎重选老师，有些老师会在课上进行debate，再根据debate的内容评分，英语是第二语言的话很不占优势。
 __T学长:__  老师的差距还是很大的，教学方法也不太一样。我介意选老师前去CAPE看一下，Reddit上看看有没有人评论还有rate my professor。找适合自己学习方式的老师。
 ## Q4. 学习国际贸易，学校里有没有什么觉得很有帮助的club/activity/association？
 __M学姐:__ 我觉得咱们Rady商学院时不时会办的一些conference很有用，另外其实课上很多课老师也会请一些speaker来。另外学校里其实有很多business相关的学生社团。比如Undergraduate Business Network，Women in Buiness这些。当然还有一些business相关的兄弟会姐妹会，都有很多networking的机会。
@@ -270,17 +270,17 @@ Leo：大二/Marshall College/Computer Engineering
 ## Q1. 电气工程的专业课程是以什么样的教学形式为主呢？这个专业在UCSD有什么特点吗？
 Audrey（EE）：我认为电气工程专业的课程，尤其是高阶课的强度还是很大的，而且每个学生的知识水平也都不一样，所以这个专业没有“水课”，也不要寄太大希望于教授或者TA身上，主要的还是靠自学。有些ece的专业课程会有实验，有些就只是单纯的lecture，实验课会比较占时间，因此要提前排好每学期的课程。我了解到身边CE的同学也都是差不多的情况，CE也就是Computer Engineering，主要就是将EE以及CS的基础课程都学一些，主要还是以天天写代码为主，但是也会学一学怎么接电路这样的。软硬件兼修说就是 CE 专业了。他们表示“每一个 UCSD 的程序员都靠过 StackOverFlow 写 PA ，但这个过程真的学起来其实效率很高，就是心累”。
 ## Q2. 本专业有没有特别值得推荐的教授/课程？
-__LEO（CE）: -- CS 方面的课我推荐曹英俊和 Mile Jones；EE的话， Saha 和 Paul Siegal。不过我们学校尤其是写码这方面AI（学术诚信）查的很严，只要 Code有一定相似度，铁定会被 AI office 找麻烦，所以不能抱着任何侥幸心理，曹英俊更是那种有的时候没事，大晚上的在 TA 都撤了的时候的去 Lab 转转，随机抓几个违反 AI 的幸运儿的可怕教授。
-__Audrey（EE）: -- ECE department的教授都很强，相比较之下Curt 和 Saha讲的算很清楚的了，但是Curt教的coding class的PA我感觉会比上课的难度大很多。而且千万不要低估ECE department的这几位教授，对于上课点名，作业，以及考试不要耍小聪明，他们有时候比学生自己还要懂各种套路。
+__LEO（CE）:__ CS 方面的课我推荐曹英俊和 Mile Jones；EE的话， Saha 和 Paul Siegal。不过我们学校尤其是写码这方面AI（学术诚信）查的很严，只要 Code有一定相似度，铁定会被 AI office 找麻烦，所以不能抱着任何侥幸心理，曹英俊更是那种有的时候没事，大晚上的在 TA 都撤了的时候的去 Lab 转转，随机抓几个违反 AI 的幸运儿的可怕教授。
+__Audrey（EE）:__ ECE department的教授都很强，相比较之下Curt 和 Saha讲的算很清楚的了，但是Curt教的coding class的PA我感觉会比上课的难度大很多。而且千万不要低估ECE department的这几位教授，对于上课点名，作业，以及考试不要耍小聪明，他们有时候比学生自己还要懂各种套路。
 ## Q3. 学校里有没有什么值得推荐的club/activity/association？
-__LEO（CE）: -- IEEE，电气电子工程师学会。虽然我真的很喜欢这个社团，但是我也是真的从来没有被录过…
-__Audrey（EE）: -- IEEE，电气电子工程师学会；CCC，Chinese Computer Community；
+__LEO（CE）:__ IEEE，电气电子工程师学会。虽然我真的很喜欢这个社团，但是我也是真的从来没有被录过…
+__Audrey（EE）:__ IEEE，电气电子工程师学会；CCC，Chinese Computer Community；
 ## Q4. EE专业的大学实习机会多么？毕业后大概的就业方向是什么呢？
-__LEO（CE）: -- 实习机会挺多的，但也需要自己花时间和精力去找各种资源，或者试着做 Project。能独立做出 Project 的大佬不管是在哪个领域都是很受欢迎的。CE 专业毕业之后走软件工程师或者硬件工程师都是可以的，会相对自由一点。我知道的 EE 其他几个专业还是以硬件方面为主。
-__Audrey（EE）: -- 我认为相较于CS或者CE，EE专业在本科阶段其实是没有太多机会的，比如学校附近的高通，对于EE学生的最低要求是研究生，本科生机会比较少。在教授的实验室也是差不多的情况，很有可能就只能沦为“工具人”，毕竟在本科期间，EE专业主要还是来让学生探索自己的兴趣，研究生时才会学的更深入一些。
+__LEO（CE）:__ 实习机会挺多的，但也需要自己花时间和精力去找各种资源，或者试着做 Project。能独立做出 Project 的大佬不管是在哪个领域都是很受欢迎的。CE 专业毕业之后走软件工程师或者硬件工程师都是可以的，会相对自由一点。我知道的 EE 其他几个专业还是以硬件方面为主。
+__Audrey（EE）:__ 我认为相较于CS或者CE，EE专业在本科阶段其实是没有太多机会的，比如学校附近的高通，对于EE学生的最低要求是研究生，本科生机会比较少。在教授的实验室也是差不多的情况，很有可能就只能沦为“工具人”，毕竟在本科期间，EE专业主要还是来让学生探索自己的兴趣，研究生时才会学的更深入一些。
 ## Q5. 给在读或者即将到来的学弟学妹们一些建议吧！
-__LEO（CE）: -- 上 EE 的课之前一定一定要先查 Evaluation，看看教授给的平均成绩和平均花的时间，不建议盲选，血的教训。
-__Audrey（EE）: -- ECE 35和45属于ECE department的入门课程了，如果这两节课你不喜欢，或者上的很困难，建议还是再考虑一下是否要继续选择ECE专业，很多人上过这两节课就换专业了。
+__LEO（CE）:__ 上 EE 的课之前一定一定要先查 Evaluation，看看教授给的平均成绩和平均花的时间，不建议盲选，血的教训。
+__Audrey（EE）:__ ECE 35和45属于ECE department的入门课程了，如果这两节课你不喜欢，或者上的很困难，建议还是再考虑一下是否要继续选择ECE专业，很多人上过这两节课就换专业了。
 # 9.14 Mathematics数学
 ## A)基本信息
 UCSD数学department总共设立了8个不同的major，分别有：- Applied Mathematics B.S.  - Mathematics B.S.  - Math-Computer Science B.S.  - Math-Applied Science B.S.  - Math-Secondary Education B.A.  - Joint Major in Math & Econ B.S.   Probability & Statistics B.S. - Mathematical Biology B.S. (新专业来袭）
@@ -390,8 +390,8 @@ W学姐：大三/Marshall College/Sociology
 Crystal: 大二/Muir College/Sociology +Clinical  Psychology
 ## C)在读学生Q&A
 ## Q1. 你的上课日常是怎样的呢？
-__W: -- 我上的课社科类比较多，包括社会学政治学等等，一般每节课每周阅读量肯定不会少于一百页，内容多的课每周一本书也是有可能的。阅读的难度每节课都不太一样，像理论课的就比较生涩，可能看了几遍还是不懂在讲什么；社会学其他大部分课看的现代的文章就好懂很多，不需要很久。论文是同样的道理，难懂的课写作文会需要更多思考，提炼重点理论，阐述自己的理解；其他写 Research Paper 的课就容易很多。
-__Crystal: -- 我选的课程比较多元，上过课的类型包括法律，经济，生物等等（基本把SOCI能涉猎的范围都上过一遍哈哈哈）。具体课程的结构和侧重点都不太一样，但总结来说SOCI的课程组成都少不了每周几十几百页的reading和essay。SOCI的阅读内容难度不一，有些是特别生涩难懂的理论，有些是很有意思的对现实问题的思考。SOCI的essay会更侧重主要观点和批判性思考而不是像某些humanities majors（如历史）一样也同样看重语法用词等，我个人更喜欢这样的评判标准。
+__W:__ 我上的课社科类比较多，包括社会学政治学等等，一般每节课每周阅读量肯定不会少于一百页，内容多的课每周一本书也是有可能的。阅读的难度每节课都不太一样，像理论课的就比较生涩，可能看了几遍还是不懂在讲什么；社会学其他大部分课看的现代的文章就好懂很多，不需要很久。论文是同样的道理，难懂的课写作文会需要更多思考，提炼重点理论，阐述自己的理解；其他写 Research Paper 的课就容易很多。
+__Crystal:__ 我选的课程比较多元，上过课的类型包括法律，经济，生物等等（基本把SOCI能涉猎的范围都上过一遍哈哈哈）。具体课程的结构和侧重点都不太一样，但总结来说SOCI的课程组成都少不了每周几十几百页的reading和essay。SOCI的阅读内容难度不一，有些是特别生涩难懂的理论，有些是很有意思的对现实问题的思考。SOCI的essay会更侧重主要观点和批判性思考而不是像某些humanities majors（如历史）一样也同样看重语法用词等，我个人更喜欢这样的评判标准。
 ## Q2. 你们的专业课程设置大概是怎样的呢？
 **W：** 社科专业相比之下课的要求较少，早毕业是比较容易的。社会学要求十六节课，其中三节 Lower Division 入门课，两节 statistics/method相关的课，一节核心理论课，和十节 Upper Division 的选修课。社科类的 minor（辅修）一般都是七节课，Lower Division 和 Upper Division 的安排也比较灵活，对文科感兴趣的新生建议在大一大二可以多尝试一下各个学科。
 成绩的话，Lower Division 的 Discussion （讨论课）都是必须去，有考勤分的。到了 Upper Division 很多课的成绩就是完全两三场考试或 paper 决定的了。
