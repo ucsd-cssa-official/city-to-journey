@@ -1,19 +1,21 @@
 ---
-title: College introduction
+title: Revelle College
 layout: default
 nav_order: 2
+parent: Colleges
 ---
 
 
 This is college introduction. 
 This has multiple pages on various colleges. 
 
-# chapter 1. Revelle college 介绍
+# Revelle college 介绍
 Revelle College 是 UCSD 最早成立的学院。它于 1964 年建成，以海洋学家，同时也是 UCSD 的创始人，Roger Revelle 的名字命名。全校的第一个本科图书馆也位于 Revelle College 的Galbraith Hall中。Revelle College 的通识教育（General Education，以下简称 GE）严格按照传统文理学院的标准，致力于培养全面的并为复杂的社会竞争做好准备的学生。
-## 地理位置及出行
-Revelle College 位于 UCSD 的最南端，虽说位置较为偏僻，但是交通十分便利。在学院的西边和东边都设有圣地亚哥 MTS 系统的公交车站，步行五分钟便可到达。如果想乘坐校内的 shuttle，在学院东侧，西侧以及南侧的教学楼附近也可以找到 shuttle 的车站，线路有校内的Inside Loop 和Outside Loop，会经过 UCSD 所有学院，以及贯通海边和UCSD School of Medicine 的SIO。
 
 ![Alt text](../../images/college_intros/muir_selections/revelle-image3.png)
+
+## 地理位置及出行
+Revelle College 位于 UCSD 的最南端，虽说位置较为偏僻，但是交通十分便利。在学院的西边和东边都设有圣地亚哥 MTS 系统的公交车站，步行五分钟便可到达。如果想乘坐校内的 shuttle，在学院东侧，西侧以及南侧的教学楼附近也可以找到 shuttle 的车站，线路有校内的Inside Loop 和Outside Loop，会经过 UCSD 所有学院，以及贯通海边和UCSD School of Medicine 的SIO。
 
 ## 1.2 General Education （通识教育）
 Revelle College 的 GE 分为以下六个部分：
@@ -68,5 +70,49 @@ Commuter Lounge 位于 Blake Hall 的一层，是一个供大家学习和休息�
 
 ## 1.5 食堂及超市
 
+**Revelle College - 64 Degrees**
 
+Revelle College 有两个食堂，64 Degrees 以及 64 Degrees North。所有住校的学生都需要充值DINNING DOLLARS，用于在学校食堂和学校超市的花销。
 
+64 Degrees 位于 Argo Hall 的西边 50 米，工作日开放时间 07:00am - 9:00pm，双休日开放时间是 10:00am-08:00pm。
+
+这里最常开放四个窗口。第一个窗口Wok 提供中式米饭和炒菜，并配有蔬菜沙拉，炒菜（牛肉、鸡肉、豆腐、青菜）, 春卷等。第二个窗口 64
+Triton Grill 提供64 Degree的招牌汉堡，三明治，薯条和鸡块等。第三个窗口Taqueria 提供墨西哥的食物，比如Burrito 、
+taco、quesadilla 等。第四个窗口64 Revelle Cuisine 提供比较西式的食物，并且会根据holidays/special days更改菜单。
+
+64 Degrees North 与 64 Degrees 相通，仅工作日开放，营业时间是 11:00am-03:00pm。这是一个非常正式的西餐厅，菜品相对 64 Degrees
+会更昂贵些，但是依然可以使用 Dining Dollars。餐厅会提供甜品以及正餐，包括布丁，巧克力蛋糕，烤三文鱼，烤蘑菇意大利烩饭等。(
+自疫情以来，64 Degrees North暂不开放)
+
+**Revelle College - Roger's Market**
+
+Revelle 的超市叫做 Roger’s market，开放时间为07:00am-11:00pm。Roger’s market 取自学院命名者 Roger Revelle 的名字，位于 64
+Degrees 的西边，与食堂相通。这里会卖一些常用的食品和生活用品，包括速食产品，面包，零食，饮料，方便面等。平时的生活用品包括洗发露，沐浴液，护发素，水杯，洗衣液等；药品包括感冒类药物，酒精，耳塞等等。
+
+## 附近设施
+
+**Academic Advising Office**
+
+Revelle College 的 Academic Advising Office 位于 GALBRAITH HALL 的后方，工作时间为 08:00AM-12:00PM，01:00PM-4:30PM，可以通过
+WALK-IN 或者 APPOINTMENT 的方式与 advisor 交流。帮助的具体方面包括：探索或者更换专业，GE要求的具体细节，讨论一个四年的课程规划，添加double
+major或 minor 等等。
+
+**Revelle Plaza**
+
+Revelle College 最具特色的建筑当属 Revelle Plaza，位于 Galbraith Hall 的北边，Argo Hall 的东边，是一片非常大的广场。广场上建有喷泉，国旗，四周环绕着
+York Hall, Galbraith Hall 和 Argo Hall 等主要教学楼及宿舍楼。这片广场上经常会举行活动，例如音乐会，或者蹦床类的游乐设施。疫情期间Revelle
+Plaza 会有为室外授课搭建的小帐篷。
+
+{: .contribution}
+> **致谢**
+> 文 | 张启文 
+> 
+> 修改｜Lindsey 
+> 
+> 编｜章闻珊 
+> 
+> 排版｜董纪萱 
+> 
+> 图片来源｜Lindsey，留学在UCSD
+>
+> 搬运｜陈佳钰，钮臻真，舒欣，舒畅

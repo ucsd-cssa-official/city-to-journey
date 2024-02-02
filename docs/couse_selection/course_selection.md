@@ -4,9 +4,9 @@ layout: default
 nav_order: 4
 ---
 
-# CHAPTER 10. 注册课程
+# 注册课程
 
-## 10.1 如何登录WebReg系统
+## 如何登录WebReg系统
 
 UCSD的选课系统是WebReg。以下是如何从众多操作系统登录的指南。
 
@@ -16,7 +16,7 @@ UCSD的选课系统是WebReg。以下是如何从众多操作系统登录的指�
 4. 点击上方菜单栏Class & Enrollment的子菜单最后一个就是WebReg <br/> ![img_1.png](../../images/course_selections/img_1.png)
 5. 进入WebReg后选择相应的Term，再点击Go，就会出现如下界面 <br/> ![img_2.png](../../images/course_selections/img_2.png)
 
-## 10.2 选课时间 appointment time
+## 选课时间 appointment time
 
 1. 点击上方Appointment time能查看自己可以开始选课的时间
 2. 入学前第一次选课，学校会随机分配选课时间。
@@ -24,7 +24,7 @@ UCSD的选课系统是WebReg。以下是如何从众多操作系统登录的指�
 	   pass两个选课时间，一般间隔一周左右。FIRST PASS的学分上限是11.5个CREDITS，second
 	   pass的学分上限是19.5个credits，开学第一天可以加课到22个credits（当然加不加取决于个人）。
 
-## 10.3 找课 search for classes
+## 找课 search for classes
 
 ![img_3.png](../../images/course_selections/img_3.png)
 
@@ -45,7 +45,7 @@ UCSD的选课系统是WebReg。以下是如何从众多操作系统登录的指�
 ![img_6.png](../../images/course_selections/img_6.png)
 
 
-## 10.4 排课 Plan Classes
+## 排课 Plan Classes
 
 1. 查找课程的具体信息后，可以看到这门课的上课时间，地点，总共seats，剩余位置，waitlist人数，教授等信息。
 
@@ -69,7 +69,7 @@ UCSD的选课系统是WebReg。以下是如何从众多操作系统登录的指�
 > 2. 关于上什么课，要综合major requirement，general education requirement，diversity equity and inclusion
 	 requirement几个方面来考虑。可以参考学校给出的针对不同专业学院的学生定制的[four year plan]。
 
-## 10.5 选课 Enroll
+## 选课 Enroll
 
 1. Appointment time一到，大家就可以进行选课了。对于还有位置的课直接点击后面的Enroll就可以了。（已经enroll的课在下面的list/calendar以深蓝色表示。）
 
@@ -81,7 +81,7 @@ Seats小于教室容量的话，很大可能是位置没有全部放出来，随
 当然也要做好备选课程，以防没有课上。（已经waitlist的课在下面的list/calendar以浅蓝色表示。）有时候学校还会增加section（新增section的total
 seats一般是0，不用担心，之后会放出来），所以如果有很想上的课的话，可以时不时去webreg上看一下，说不定会有惊喜。
 
-## 10.6 本科生重要时间及其它
+## 本科生重要时间及其它
 
 - Week2的周五–加课（add course）的截止时间，申请part-time status；
 - Week4的周五–drop class without a “W”的截止时间；
@@ -104,7 +104,7 @@ seats一般是0，不用担心，之后会放出来），所以如果有很想�
 > **关于EASy（Enrollment Authorization System）**
 > 可以用来申请批准特殊情况，比如想要选课超过22个学分，没达到prerequisite但是还想上这节课等等。
 
-## 10.7 degree audit
+## degree audit
 
 在degree audit中可以看到自己完成了专业和学院要求的哪些课，以及还需要上哪些课可以毕业。
 
@@ -116,7 +116,7 @@ seats一般是0，不用担心，之后会放出来），所以如果有很想�
 
 ![img_11.png](../../images/course_selections/img_11.png)
 
-## 10.8 前期AP/IB/A-level转学分
+## 前期AP/IB/A-level转学分
 
 入学前可以使用AP和IB兑换UCSD学分（计入pass/no
 pass，即不影响GPA），同时也可以抵换UCSD的课程。但是不同学院对于是否能抵换课程以及可以抵换什么课程有不同的成绩要求。详情可以查看下表。
@@ -130,7 +130,7 @@ pass，即不影响GPA），同时也可以抵换UCSD的课程。但是不同学
 
 [IB置换课程表格_2023–24]
 
-## 10.9 毕业要求
+## 毕业要求
 
 1. **University Requirement**
 
@@ -210,7 +210,7 @@ Audits上记入毕业学分的课，其实是4x4=16，因为AWP是不算毕业�
 Grade，最后结果也确实会给出一个Letter Grade，但是C以上就可以pass并满足ELWR。本质上AWP其实是一个P/NP的课程，所以大家只要最后PORTFOLIO
 RESULTS过C就行了。
 
-## 10.10 Summer Session
+## Summer Session
 
 [Summer Session website]
 

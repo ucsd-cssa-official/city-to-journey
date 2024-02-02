@@ -5,7 +5,7 @@ nav_order: 6
 parent: life at ucsd
 ---
 
-## 12.1.1 校内
+## 校内
 
 学校的网站上有校内所有的餐厅/食堂/超市https:
 //blink.ucsd.edu/facilities/services/general/personal/dining.html。以下是小编们整理出的比较受欢迎的几家餐馆。
@@ -57,7 +57,7 @@ Bistro 虽然是以日料为主，但是同时也会有PORK LOIN (猪里脊肉)
 更加详细的菜单测评请参考：
 生活周刊｜Bistro 菜单大盘点（上） & 生活周刊｜Bistro 菜单大盘点（下）
 
-## 12.1.2 校外中餐：
+##  校外中餐：
 
 注：以下营业时间在考虑疫情的情况下可能有变动，大家在去之前记得再谷歌确认一下～
 
@@ -150,7 +150,7 @@ Jasmine名字上虽然带有SEAFOOD，但其实是一家十分不错的广东早
 ### 更多详细中餐厅 -> [吃货福利: SD美食大盘点!](https://mp.weixin.qq.com/s/lYgoRjua71_RKIHLp_alng)
 
 
-## 12.1.3 韩餐 & 日料：
+##  韩餐 & 日料：
 
 **Grandma Tofu and BBQ**
 
@@ -170,11 +170,11 @@ Grandma Tofu是一家十分经典的韩国料理店，服务十分周到，小�
 
 一家日式烧烤店，深夜夜宵好去处。不过一点左右已经停止接待新的客人，请大家合理安排时间。
 
-### 12.1.4 更多韩料和日料店
+### 更多韩料和日料店
 请戳：[【生活周刊】SD日韩料餐厅安利大会](https://mp.weixin.qq.com/s/E0VV1H0gXbpSZ9JrO1fDug)
 
 
-## 12.1.5 甜品
+## 甜品
 
 **Bing Haus**
 
@@ -195,13 +195,13 @@ Grandma Tofu是一家十分经典的韩国料理店，服务十分周到，小�
 大家基本上都知道的，在国内也很有名气的甜品店。芋圆赛高！个人最爱芋圆四号，还有Q麻薯和鸡蛋布丁也很软糯和滑嫩！鲜芋仙的麻薯都很不错，好评很高～不过每次去都会排一会队，等待时间较长。
 
 
-## 12.1.6 99 Ranch Market（大华超市）
+## 99 Ranch Market（大华超市）
 7330 Clairemont Mesa Blvd, San Diego, CA 92111
 大华是一个很适合住在res hall，想自己动手做饭的手残人士的好去处，大华超市有很多中国零食，包括辣条，浪味仙，柠檬茶等等。每天也会有现做的糕点比如蛋黄酥，芋泥包，凤梨酥。
 同时在大华可以买到很多速食，比如火鸡面，海蜇丝。熟食区还有烧腊和卤味，买回来放进微波炉里就可以直接吃。小编上学期还在大华惊喜发现了豆花，可以拆开直接吃，原味和椰汁味的特别好吃！但是原味很抢手，如果去晚了就没有了。柠檬茶也是可遇不可求。遇到了就是缘分，赶紧带回家吧！
 大华超市是一个很值得大家跟朋友一起探索的地方，小编每次跟朋友们逛超市都特别开心～
 
-## 12.1.7 La Jolla 附近的 brunch 和 海鲜餐厅
+## La Jolla 附近的 brunch 和 海鲜餐厅
 
 La Jolla Shores 和 La Jolla Cove 附近有很多风景不错的brunch餐厅和海鲜餐厅，大家可以在一边享受美食的同时一边欣赏大海的风景，真的很惬意。
 
@@ -222,7 +222,7 @@ La Jolla Shores 和 La Jolla Cove 附近有很多风景不错的brunch餐厅和�
 - [【吃货】La Jolla美式Brunch好去处](https://mp.weixin.qq.com/s?__biz=Mzg4MTg1MDAzMw==&mid=2247523636&idx=1&sn=9ec1156ffa43abf2497a36eebcc11fc7&source=41#wechat_redirect)
 - [【生活周刊第七期】Crab Catcher Restaurant 海鲜餐厅](https://mp.weixin.qq.com/s?__biz=Mzg4MTg1MDAzMw==&mid=2247523283&idx=2&sn=e45adc54cf957cfbd9402b5456a0888a&source=41#wechat_redirect)
 
-## 12.1.8 Mira Mesa
+## Mira Mesa
 
 Mira Mesa 是在UCSD东北方向的一片区域，驾车大概二十分钟。小编对这一片地方探索不是很多，但是这一片的plaza也是相当丰富～
 

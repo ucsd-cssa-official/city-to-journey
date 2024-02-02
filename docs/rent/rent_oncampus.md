@@ -1,9 +1,9 @@
 ---
-title: on campus
+title: on campus housing
 layout: default
 nav_order: 7
-parent: rent
+parent: Rent
+has_children: true
 ---
 
-
-This is rent. this should include in/off campus two subpages. 
+# UCSD 校内房源

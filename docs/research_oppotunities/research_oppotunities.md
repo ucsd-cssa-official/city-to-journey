@@ -4,9 +4,9 @@ layout: default
 nav_order: 5
 ---
 
-# Chapter 11. 学术Opportunity篇
+# 学术Opportunity
 
-## 11.1 Research & lab
+## Research & lab
 
 采访自Joey学长：
 
@@ -32,7 +32,7 @@ Q3. 加入lab或参与research需要具备怎样的能力？
 > 的热情和commitment，多与教授沟通、读教授的paper、了解这个lab除了自己做的部分其他部分在做什么、准时参加lab的会议等等。用心去完成自己承诺的事情吧，毕竟很多undergrad
 > research都是voluntary的，做的好不好全靠自觉和发自内心的热情。
 
-## 11.2 TA/IA/TUTOR
+## TA/IA/TUTOR
 
 不同department对于TA/IA/TUTOR的定义不太一样。比如CSE的undergrads 叫 tutor，graduates 叫 TA。生物的的undergrads 叫
 IA，graduates 叫 TA。但总体来说，这些角色都是带领discussion以及hold office hour的。
@@ -63,18 +63,18 @@ hour，学生们通过一个叫AUTOGRADER的网站交Ticket，填写问题，然
 > TUTOR的收获真的很多。首先是自己对于那门课的内容会更加熟悉，毕竟要面对学生的问题，即使tutor了很多次，还是会在Office
 > hour之前过一遍以前的概念。另外就是自己会有成就感，我这学期第三次做tutor，有一些之前帮助的比较多的学生在校园里遇见都会打招呼，心里会很有成就感。
 
-## 11.3 Grader
+## Grader
 
 采访自York学长
 申请grader和tutor申请用的是同一个网站，同样需要上过grade的那门课。Grader的工作平时就是与ta联系，找ta拿卷子改然后在due
 date之前交给ta，有时候教授会把答案发给grader有时候不会，那种时候就需要自己重新复习一遍了。所以tutor工作的轻松与否很大程度上取决与这个教授的友好程度以及被assign到的那门课的难度。
 
-## 11.4 Study Abroad
+## Study Abroad
 
 UCSD每年有大量study abroad的学生。他们一边享受着异国风光，一边努力赚取着学分。Study Abroad的项目分为三种，UCEAP、OAP 以及
 Summer Global Seminar。现在就一一为大家介绍一下吧。
 
-### 11.4.1 UCEAP
+### UCEAP
 
 [UCEAP 网站]
 
@@ -87,7 +87,7 @@ UCEAP的一大好处是Study abroad的学分可以直接转成UC credits，记�
 UCEAP的一大坏处，就是贵。除了Summer时段的项目以外，UCEAP都会向国际学生收取Non-Resident Supplemental Tuition，费用大约为一个quarter
 1万美元左右，一个semester则要1万5.
 
-### 11.4.2 OAP
+### OAP
 
 [OAP 网站]
 
@@ -99,7 +99,7 @@ OAP的好处最主要体现在价钱上。UCEAP fee 和Non-Resident Supplemental
 但它的坏处也是明显的。第一，它的申请过程相较UCEAP来说会繁琐一些；第二，它的credit会转为transfer
 credit，不会记入GPA。学校也并不保证credit能够全部转入。
 
-### 11.4.3 Summer--Global Seminars
+### Summer--Global Seminars
 
 [Summer--Global Seminars 网站]
 
