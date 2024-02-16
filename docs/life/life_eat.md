@@ -2,7 +2,7 @@
 title: 吃喝篇
 layout: default
 nav_order: 6
-parent: life at ucsd
+parent: Life at ucsd
 ---
 
 ## 校内

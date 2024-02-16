@@ -2,7 +2,7 @@
 title: 玩乐篇
 layout: default
 nav_order: 6
-parent: life at ucsd
+parent: Life at ucsd
 ---
 
 
